@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SJQ</title>
+
+    <link href="./css/page.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+    <script src="js/sjq.js"></script>
+</head>
+<body>
+<div class="home">
+    <div class="title">SJQ</div>
+    <div class="subtitle">The tiny, simple jQuery-like API</div>
+    <div class="reference">https://www.syncano.io/blog/content/images/2016/02/javascript-code.jpg</div>
+    <script src="js/page.js"></script>
+</div>
+<div class="wiki">
+    <h2 id="wiki">Wiki</h2>
+    <h3 id="plugins">Plugins</h3>
+    <section>
+        <a id="wiki_fn"></a>
+        <h4>Adding a new function</h4>
+        <p>Can I add functions to SJQ? Yes, of course you can! This feature can be used to create plugins or just make
+            life easier. It means that instead of doing this: <code>mySJQFunction(elem,arg)</code>, you can do this:
+            <code>$mySJQElem.mySJQFunction(arg)</code>. And the best bit: It's super simple to use!</p>
+        <p>View the example below:</p>
+        <pre><code>$.fn.mySJQFunction = function(arg) {
+    // Content
+    alert ('it works');
+};</code></pre>
+        <p>When you create a function (like <code>mySJQFunction()</code>) inside the <code>$.fn</code> object, you are
+            allowing that function to be called from a SJQ object, so now we could run <code>$mySJQElem.mySJQFunction(arg)</code>
+            and we would get a popup saying 'it works'.</p>
+        <p>If you wanted to access the SJQ object that the function is being run on, which is probably why you are doing
+            this in the first place, use either <code>$(this)</code> or <code>this</code>. You probably want to
+            <code>return this.each(){/*your code here*/};</code> too, so that if it's running on something that there
+            could be multiple of, it will loop through each one. You can use <code>$(this)</code> inside that to get the
+            current object.</p>
+        <p>If you're running code that needs to be on the raw <code>HTMLElement</code> object, use <code>.get(index)</code>.
+            This will return a <code>HTMLElement</code> object, or an array of <code>HTMLElement</code>s if no argument is supplied.
+            If you were to look through the <a target="_blank" href="https://github.com/Zoweb/SJQ/tree/master/src">source code</a>, you
+            would notice this being used.</p>
+    </section>
+</div>
+</body>
+</html>
