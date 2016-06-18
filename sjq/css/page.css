@@ -78,3 +78,19 @@ pre {
     overflow: auto;
     max-height: 600px;
 }
+
+.buttons {
+    text-align: center;
+    padding-top: 140px;
+}
+
+button.dl {
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    background: white;
+    color: black;
+    border: 1px solid #314159;
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 5px;
+}
