@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tumnegg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://static.zoweb.me
+  * I am tumnegg (https://keybase.io/tumnegg) on keybase.
+  * I have a public key ASClyyWWIH8iZx5Tyvi_p2ykSKyjWVuZs8lFlOt0KnJE6go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a5cb2596207f22671e53caf8bfa76ca448aca3595b99b3c94594eb742a7244ea0a",
+      "host": "keybase.io",
+      "kid": "0120a5cb2596207f22671e53caf8bfa76ca448aca3595b99b3c94594eb742a7244ea0a",
+      "uid": "836cbbf436ad8df1a69beca086abee19",
+      "username": "tumnegg"
+    },
+    "merkle_root": {
+      "ctime": 1543205743,
+      "hash": "c10897e11689414cff7013b6e66838da95b3bf38f4f24537ff7304c142888a198acb60d2fedc3ec31403abf3353c3983f90c5d44444c06990c0615540736da28",
+      "hash_meta": "3a4c5408cfe7b8dc820eef35bea88be299419c42c9aeff548e920bae023b1c9d",
+      "seqno": 4007898
+    },
+    "service": {
+      "entropy": "awPGbN6dLxWIMtObYfoINK7Y",
+      "hostname": "static.zoweb.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.10.1"
+  },
+  "ctime": 1543205760,
+  "expire_in": 504576000,
+  "prev": "d357d8f314304bfd1db415c287eab0e9e29af53fa70992c36f51fa5ca71cb06d",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpcslliB/ImceU8r4v6dspEiso1lbmbPJRZTrdCpyROoKp3BheWxvYWTESpcCB8Qg01fY8xQwS/0dtBXCh+qw6eKa9T+nCZLDb1H6XKccsG3EIEiTdTrY27uoiJVXRsvgauOAIT7SwbL24jcXCRZNdJoxAgHCo3NpZ8RAmUCPIUrqBNohzO8NrlWNvUH50TIg0DwTcp8110HfpJOgiFFSeDebgGD4hCvMBRxFb1lXxWZ/PqlDQ72N2ZTWA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILp4tFg9PwsZ07mdSd+dDgMmhUGd+A9OMbJqAo8Cspxwo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tumnegg
+
+==================================================================
