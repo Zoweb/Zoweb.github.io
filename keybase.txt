@@ -1,56 +1,75 @@
 ==================================================================
-https://keybase.io/tumnegg
+https://keybase.io/alduino_
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of https://static.zoweb.me
-  * I am tumnegg (https://keybase.io/tumnegg) on keybase.
-  * I have a public key ASClyyWWIH8iZx5Tyvi_p2ykSKyjWVuZs8lFlOt0KnJE6go
+  * I am an admin of http://www.zoweb.me
+  * I am alduino_ (https://keybase.io/alduino_) on keybase.
+  * I have a public key with fingerprint 3AD0 9721 51E2 AA8A 9AA9  14F5 4E2F 9EA6 1AA5 386E
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0120a5cb2596207f22671e53caf8bfa76ca448aca3595b99b3c94594eb742a7244ea0a",
+      "eldest_kid": "01206036ab487a7706414d7cbc20236ab09beb79d98d026da5c34c72c695f666d22f0a",
+      "fingerprint": "3ad0972151e2aa8a9aa914f54e2f9ea61aa5386e",
       "host": "keybase.io",
-      "kid": "0120a5cb2596207f22671e53caf8bfa76ca448aca3595b99b3c94594eb742a7244ea0a",
-      "uid": "836cbbf436ad8df1a69beca086abee19",
-      "username": "tumnegg"
-    },
-    "merkle_root": {
-      "ctime": 1543205743,
-      "hash": "c10897e11689414cff7013b6e66838da95b3bf38f4f24537ff7304c142888a198acb60d2fedc3ec31403abf3353c3983f90c5d44444c06990c0615540736da28",
-      "hash_meta": "3a4c5408cfe7b8dc820eef35bea88be299419c42c9aeff548e920bae023b1c9d",
-      "seqno": 4007898
+      "key_id": "4e2f9ea61aa5386e",
+      "kid": "01019aa78cff9c1d3966255a7cbc16b0d2dcbff1be3592826ada4ab86abca8d736180a",
+      "uid": "ed22bba4379da60ad69ab41f2f0dcf19",
+      "username": "alduino_"
     },
     "service": {
-      "entropy": "awPGbN6dLxWIMtObYfoINK7Y",
-      "hostname": "static.zoweb.me",
-      "protocol": "https:"
+      "hostname": "www.zoweb.me",
+      "protocol": "http:"
     },
     "type": "web_service_binding",
-    "version": 2
+    "version": 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "2.10.1"
-  },
-  "ctime": 1543205760,
-  "expire_in": 504576000,
-  "prev": "d357d8f314304bfd1db415c287eab0e9e29af53fa70992c36f51fa5ca71cb06d",
+  "ctime": 1549003360,
+  "expire_in": 157680000,
+  "prev": "1bf1a118350b42aecb97496dd8db7a19e3e496612471e72a736e0de1072cc71c",
   "seqno": 7,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpcslliB/ImceU8r4v6dspEiso1lbmbPJRZTrdCpyROoKp3BheWxvYWTESpcCB8Qg01fY8xQwS/0dtBXCh+qw6eKa9T+nCZLDb1H6XKccsG3EIEiTdTrY27uoiJVXRsvgauOAIT7SwbL24jcXCRZNdJoxAgHCo3NpZ8RAmUCPIUrqBNohzO8NrlWNvUH50TIg0DwTcp8110HfpJOgiFFSeDebgGD4hCvMBRxFb1lXxWZ/PqlDQ72N2ZTWA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILp4tFg9PwsZ07mdSd+dDgMmhUGd+A9OMbJqAo8Cspxwo3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMNzAnicbVJtUFRVGF42E2HBD6SGPky5RgoucM+9d+/HBtmAIGNmKMlUQ7Oce++5
+cGPZu+wuH0poZUWY1DIighRaZkYI42qkqNGQMIylgzjDMKI70QyzlEQTkBBOQecy
++q/z58z7nud9zvM853SHP2QIDdqW2PTl4yd4R9BPXXXFhpysO7nlhKjJuwhrOVGA
+FjZkl5HbYytQZcJKkIAiWZJmocjwHOQ4kmUAI3OSKFEkpbdJQUQiJ8gCL5MUK0OL
+RDMSR0msYFFYlpUpSiEhYSYU1ZGHXE6X6vBgWhrKpMBRwAIQBSEPBQgFwCgWBlGK
+gCALILTQPIvwYL7m1iewOBG6UYKq4R4ubAvy/gf/QDcJMCnHS4oiSECmBZalLBao
+KwesSMqULImKAkREWwSKp1goQwaKPHYkQV7maBbwC7qLF+gQ9iGKkKGxU8iSUGYF
+nAhQsDlZUoCgA93I5YCFCKOhXS5WHZqNqDATuFuiSkgPVndyH1FaWpqwWytFYkKh
+rtnp0jyapNnxSb7H47Tqg55dzgUkEm33OWyi6pBxjHigBLncquYgrAAjJY+qkwIL
+I5AkTbOkmUBlTtWFbKqOsHAsT+KlX4NKMCUQFQAB4GkLKTIURJIocIzAyjIvixwE
+AqIRLllAMRxAHAVxGIiUESDxs0ockAjdVZFDI6wclgnzMKVbzXNAT7ELERU/dOUs
+MgSFGhY/bNS/lyE0ZPmDT1e/fdk9Y3Dd8y3L+28H1ja3+j3T8ajuhQsHsoiTLwob
+Ls5bvQX18SMTDTd3Hm9NF+Pf92zOzfNtbXC/NW9v2zuTHGrPMB+qDQw9bfzbFHty
+w7dlzU3fTRz40Hlw6lND46qstJhfss8NDKmzo5k1jx65lxs9VTgeV3T+Ofez/bZb
+tUN70l7O/WKoImlgIGTb3oQ3pmvUmUWnwrsiB8Ol9ihm6Hyr2Q/sVRvfWXorsmge
+BfNtO+4mZwffHW5qMU/XBjz7e91LVk6u9+7f9HnDx8qd8JT298TmqtRL2RXun/si
+RndOju0725C1ZS76SM9vK0NOpfQHSj4LtLvmZtfUTJWH1h6tlDu8atHWzqp5Mqlf
+1HxP0b3j42lj1Ws6w7jytG9un34p8iN/bMSPgPIe87+aYnw7uat7jO87lrg07kSP
+6WhLqveJT4yHTJOZ5/6KbC+LqYx7LKktpy7jwsxl35XBnpzoCSpxx5bO8Hp1/Qot
+6Z91q3dvjxmL2LiiIKV6ovumf/XI1eDhrIuV+d1nZ9fOfdBb+OYeQ2TbYEf6689c
+y/x+9FpNx1ezM/0xmZcPp0eV9kxNi79f6q40Hw81+VIeWReojW2og2dyfcv2xZe/
+8u/1r/8ovn6l8MmojE2/On3evpHZ6mR/fIdrePP4mdTMsHfDHNP1N1a9Zmpc3Hjw
+8NTVSqN6OiRzyY2+sD/9Ju0/kBHFdg==
+=Ddi9
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/tumnegg
+View my publicly-auditable identity here: https://keybase.io/alduino_
 
 ==================================================================
